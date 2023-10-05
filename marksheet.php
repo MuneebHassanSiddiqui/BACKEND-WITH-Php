@@ -80,8 +80,8 @@
         <tr><th>Class:</th> <td><?php echo $class ?></td></tr>
         <tr><th>English:</th> <td><?php echo $eng ?></td></tr>
         <tr><th>Urdu:</th> <td><?php echo $urdu ?></td></tr>
-        <tr><th>Islamiyat:</th> <td><?php echo $islamiyat ?></td></tr>
-        <tr><th>Pakistan Studies:</th> <td><?php echo $ps ?></td></tr>
+        <tr><th>Pakistan Studies:</th> <td><?php echo $islamiyat ?></td></tr>
+        <tr><th>Islamiat:</th> <td><?php echo $ps ?></td></tr>
         <tr><th>Maths:</th> <td><?php echo $maths ?></td></tr>
         <tr><th>Science:</th> <td><?php echo $science ?></td></tr>
         <tr><th>Obtained Marks:</th> <td><?php echo $obt_marks ?> / <?php echo $total_marks ?></td></tr>
